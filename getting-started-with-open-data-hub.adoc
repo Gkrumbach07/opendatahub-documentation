@@ -31,6 +31,10 @@ ifdef::upstream[]
 
 If you have access to {openshift-platform}, you can browse to the {openshift-platform} web console and click the *Application Launcher* (image:images/osd-app-launcher.png[The application launcher]) -> *{productname-long}*.
 
+If you have access to {openshift-platform}, you can browse to the {openshift-platform} web console and click the *Application Launcher* (image:osd-app-launcher.png[The application launcher]) -> *{productname-long}*.
+
+If you have access to {openshift-platform}, you can browse to the {openshift-platform} web console and click the *Application Launcher* (image:/images/osd-app-launcher.png[The application launcher]) -> *{productname-long}*.
+
 include::modules/logging-in-to-open-data-hub.adoc[leveloffset=+1]
 
 include::modules/the-open-data-hub-user-interface.adoc[leveloffset=+1]
